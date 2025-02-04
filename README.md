@@ -6,7 +6,7 @@ This repository demonstrates the implementation of Areal Lights (Area Lights) in
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](Screenshot1.png)
 
 ## Folder Structure
 
